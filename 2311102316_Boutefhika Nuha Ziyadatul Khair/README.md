@@ -60,21 +60,16 @@ Git adalah salah satu sistem pengontrol versi (Version Control System) pada proy
 
 ## 2.2 Instalasi Git
 Disini saya sudah pernah install git 2.33.0.windows.2 dan saya melakukan pengecekan git pada CMD agar pasti sudah terinstall.
-<p align="center">
-<img width="639" height="317" alt="Instalasi Git" src="https://github.com/user-attachments/assets/9ebedc04-119b-46e7-913b-1495b51156b3" />
-</p>
-<p align="center">Git sudah terinstall</p>
 
 ## 2.3 Penggunaan Git
 ### 2.3.1 Membuat repository
 - Buka Github.com  
 - Buat dan isi detail repository yang akan dibuat  
-<img width="975" height="548" alt="Buat Repository" src="https://github.com/user-attachments/assets/32a01f7b-6077-4205-b125-8d525b0523dc" />
 - Klik **Create Repository**
 - Jika sudah, akan muncul langkah-langkah untuk membuat repository dengan CMD
 - Ikuti langkah-langkah seperti berikut
-<img width="975" height="548" alt="Proses" src="https://github.com/user-attachments/assets/b8ef50b7-76c9-403b-9a4d-900d3e2a45d9" />
 - Berikut kode programnya
+  
 ```
 D:\Praktikum ABP>git init modul1
 Initialized empty Git repository in D:/Praktikum ABP/modul1/.git/
@@ -96,8 +91,8 @@ To https://github.com/nhaazk95/modul1.git
 branch 'ok' set up to track 'origin/ok'.
 D:\Praktikum ABP\modul1>
 ```
+
 - Jika sudah, refresh halaman Github dan repository berhasil dibuat
-<img width="975" height="548" alt="Hasil Akhir" src="https://github.com/user-attachments/assets/116dfaaa-b31a-45db-bb9a-cd946ad2ce81" />
 
 ### 2.3.2 Clone Repository milik orang lain
 
