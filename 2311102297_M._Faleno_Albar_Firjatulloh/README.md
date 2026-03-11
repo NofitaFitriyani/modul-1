@@ -4,7 +4,7 @@
   <br />
   <h3>MODUL 1 <br> VERSION CONTROL SYSTEM: GIT</h3>
   <br />
-  <img src="Assets/logo Tel-u.png" alt="Logo Tel-u" width="300"> 
+  <img src="Assets/Logo Tel-u.png" alt="Logo Tel-u" width="300"> 
   <br />
   <br />
   <br />
@@ -52,7 +52,7 @@ Langkah pertama melibatkan pembuatan wadah proyek baru (repositori) pada akun Gi
 Setelah repositori daring siap, sistem akan menyajikan daftar perintah Git. Instruksi ini menjadi panduan utama untuk menyinkronkan data antara perangkat komputer lokal dengan server GitHub.
 
 ### Tahap 3: Persiapan Direktori Proyek dan Berkas
-![Langkah 3](Assets/3.png)
+![Langkah 3](Assets/3.PNG)
 Pada fase ini, pengembang menyiapkan folder khusus di penyimpanan lokal yang berisi file-file proyek yang nantinya akan dikelola menggunakan sistem pengontrol versi.
 
 ### Tahap 4: Akses Terminal pada Lokasi Proyek
@@ -60,11 +60,11 @@ Pada fase ini, pengembang menyiapkan folder khusus di penyimpanan lokal yang ber
 Buka jendela Command Prompt (CMD) atau Terminal, lalu arahkan navigasi ke folder proyek yang telah dibuat. Memastikan posisi direktori sudah tepat sangat penting agar perintah Git bekerja pada target folder yang diinginkan.
 
 ### Tahap 5: Eksekusi Perintah Push ke GitHub
-![Langkah 5](Assets/5.png)
+![Langkah 5](Assets/5.PNG)
 Jalankan rangkaian perintah sesuai panduan: diawali dengan `git init` untuk inisialisasi, `git add` untuk menandai perubahan file, dan `git commit` untuk merekam riwayat perubahan. Terakhir, hubungkan dengan alamat remote dan gunakan `git push` untuk mengirimkan seluruh data ke GitHub.
 
 ### Tahap 6: Verifikasi Hasil Pembaruan
-![Langkah 6](Assets/6.png)
+![Langkah 6](Assets/6.PNG)
 Langkah terakhir adalah melakukan validasi melalui peramban web dengan mengunjungi halaman repositori GitHub. Pastikan seluruh file yang telah dikirim dari lokal sudah muncul dan terorganisir dengan benar di server.
 
 ## Referensi
