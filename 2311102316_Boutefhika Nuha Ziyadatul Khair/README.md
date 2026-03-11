@@ -107,11 +107,11 @@ D:\Praktikum ABP\modul1>
 ### 2.3.2 Clone Repository milik orang lain
 Untuk dapat bekerja sama dengan orang lain, kita dapat melakukan cloning repositori orang lain, berikut ini caranya:
 
-- Buka repositori yang akan di-clone pada Github, lalu klik tombol clone.
-  
-- Copy text yang muncul seperti dibawah ini, ini merupakan url dari repositori tujuan yang akan di clone.
-  
+- Buka repositori yang akan di-clone pada Github, lalu klik tombol clone. Copy text yang muncul seperti dibawah ini, ini merupakan url dari repositori tujuan yang akan di clone.
+  ![Gambar 4](Image/Clone.png)
 - Buka command prompt dan ketikan perintah ini
+  ![Gambar 5](Image/Git%20Clone.png)
   
 # UNGUIDED (Melakukan setup repository via CLI)
-Sudah dilakukan dibagian atas pada dasar teori
+Sudah dilakukan dibagian atas dasar teori Pembuatan Git. Hasil setup repository via CLI:
+![Gambar 6](Image/Hasil%20Akhir.png)
