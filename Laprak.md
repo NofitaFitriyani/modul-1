@@ -51,19 +51,19 @@ Berikut adalah urutan langkah-langkah untuk melakukan inisialisasi dan setup rep
 
 Langkah pertama yang harus dilakukan adalah membuat repositori atau wadah baru di platform GitHub. Repositori ini nantinya akan bertindak sebagai tempat penyimpanan online untuk kode proyek kita. Lebih jelasnya seperti pada gambar berikut:
 
-![Gambar Langkah 1](assets/L1.png)
+![Gambar 1](assets/L1.png)
 
 ### b. Langkah 2: Panduan Perintah Git
 
 Setelah repositori dibuat, GitHub otomatis akan menampilkan panduan daftar perintah ('command') yang diperlukan. Perintah-perintah dasar ini yang nantinya akan kita eksekusi di terminal untuk menyambungkan folder lokal komputer ke repositori online. Lebih jelasnya seperti pada gambar berikut:
 
-![Gambar Langkah 2](assets/L2.png)
+![Gambar 2](assets/L2.png)
 
 ### c. Langkah 3: Membuat Folder dan File Proyek
 
 Buat dan siapkan folder dan file proyek pada komputer untuk menyimpan file yang digunakan untuk diunggah ke GitHub. Di dalam folder tersebut dapat dibuat file sederhana, seperti file teks, README.md, file codingan, dll. Lebih jelasnya seperti pada gambar berikut:
 
-![Gambar Langkah 3](assets/L3.png)
+![Gambar 3](assets/L3.png)
 
 
 ### e. Langkah 4: Menjalankan Perintah Git melalui Command Prompt
@@ -78,22 +78,20 @@ Pada tahap ini, kita menggunakan serangkaian perintah Git secara berurutan untuk
 
 <br>Lebih jelasnya pada gambar berikut:
 
-![Gambar Langkah 5](assets/L5.png)
+![Gambar 5](assets/L5.png)
+
+<br>Pada gambar tersebut diketahui mendapatkan eror saat upload file ke repositori, saya coba ulang untuk menguploadnya dan ternyata berhasil
 
 ### e. Langkah 5: Memeriksa Repository di Github
 
 Buka kembali halaman repository di Github untuk memastikan file yang telah diunggah munsul dalam repository. Jika file sudah terlihat, maka proses upload telah berhasil. Lebih jelasnya seperti pada gambar berikut:
 
-![Gambar Langkah 6](assets/L6.png)
+![Gambar 6](assets/L6.png)
 
 ## 3. Kesimpulan dan Penutup
 
 Berdasarkan hasil praktikum yang telah dilakukan, dapat disimpulkan bahwa penggunaan Git sangat penting dan berguna bagi mahasiswa Informatika untuk mencatat dan merekam setiap jejak perubahan pada file proyek, dengan GitHub sebagai wadahnya. Serta, penguasaan perintah CLI seperti 'git init' dan 'git push', mahasiswa dapat melakukan manajemen repositori dengan lebih efisien dan terkontrol.
 
-<br>Ngabuburit di daerah Baturraden,
-<br>Sama kawan-kawan dengan motoran.
-<br>Tugas Modul 1&2 Rico sudah absen,
-<br>Siap di-push ke GitHub sebagai laporan.
 
 ## 4. Referensi
 
